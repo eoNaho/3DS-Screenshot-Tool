@@ -1,0 +1,28 @@
+# Backups e arquivos temporários
+backup/
+*.bak
+* - Copy*
+* - Cópia*
+
+# Capturas e imagens de teste do usuário
+prints/
+*.bmp
+test_*.png
+*_test.png
+cyllage_*.png
+red_3ds_*.png
+
+# Arquivos do sistema operacional
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# Editores e logs
+.vscode/
+.idea/
+*.log
